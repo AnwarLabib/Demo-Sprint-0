@@ -14,4 +14,6 @@ h) git branch ReadMe
 i) git add README.md
 j) git commit -m "Commiting the README.md file"
 k) git checkout master
-   git merge ReadMe 
+   git merge ReadMe
+l) git add AllMyCommand.txt
+   git commit -m "Commiting the AllMyCommand.txt"
