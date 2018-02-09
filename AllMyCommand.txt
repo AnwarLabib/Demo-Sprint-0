@@ -1,0 +1,19 @@
+a)  git init
+
+b)  git add firstfile
+    git add secondfile
+    git add thirdfile
+
+d) git checkout -- secondfile.txt
+e) git commit -m "Commiting the three files"
+f) git remote add origin https://github.com/AnwarLabib/Demo-Sprint-0.git
+   git push -u origin master
+g) touch README.md
+h) git branch ReadMe
+   git checkout ReadMe
+i) git add README.md
+j) git commit -m "Commiting the README.md file"
+k) git checkout master
+   git merge ReadMe
+l) git add AllMyCommand.txt
+   git commit -m "Commiting the AllMyCommand.txt"
